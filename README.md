@@ -2,6 +2,8 @@
 
 React componenet for password entry implementation
 
+`/example`
+is an example of this library.
 
 ## Build package
 
