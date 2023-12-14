@@ -1,0 +1,20 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+  gap: 1rem;
+}
+
+.inputForm {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.errorMsg {
+  background-color: #f87171;
+  padding: 0.5rem 7rem;
+  border-radius: 1rem;
+  color: white;
+}
